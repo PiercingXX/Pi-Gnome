@@ -85,7 +85,7 @@ while true; do
             # Bash Stuff
                 install_bashrc_support
             # Copy over scripts
-
+                
             # Clean Up
                 rm -rf piercing-dots
             echo -e "${GREEN}PiercingXX Gnome Customizations Applied successfully!${NC}"
