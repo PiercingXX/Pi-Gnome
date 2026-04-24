@@ -63,6 +63,7 @@ builddir=$(pwd)
 # Install dependencies
     sudo apt install fwupd -y
     sudo apt install ssh -y
+    sudo apt install rsync -y
     sudo apt install wget gpg zip unzip gzip tar make curl gcc gettext -y
     sudo apt install build-essential gcc libc6-dev -y
     sudo apt install gcc-aarch64-linux-gnu libc6-dev-arm64-cross -y
